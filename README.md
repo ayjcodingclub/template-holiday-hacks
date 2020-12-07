@@ -2,6 +2,8 @@
 # Welcome to your very own Holiday Hacks repository! ☃️
 Thank you so much for taking part in Holday Hacks! This is your group's repo for the hackathon. Use it to submit files, work with your team, and ask questions.
 
+Check out the example file to get started!
+
 ## What's Holiday Hacks?
 In teams of 1-4, make something cool in your favourite programming language with a holiday or winter theme! Start working on the 9th and join us for a demo party on December 16th.  No coding experience required! 
 
