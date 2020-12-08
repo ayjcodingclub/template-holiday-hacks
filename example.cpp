@@ -12,6 +12,7 @@
 #include <iostream>
 
 int main{
+  system("Color 0D");
   cout <<"     __ "<< endl;
   cout <<"   _|==|_"  << endl;
   cout <<"    (\'\')___/" << endl;
